@@ -8,4 +8,9 @@
 To export card
 1) Answer the card. Does not matter if you get the question right
 2) Refresh the page. The HTML is buggy and needs to be manually refreshed to reveal the right answers
-3) Either rightclick on a webpage, or use ctrl+shift+y to export to anki. Cards are sent to the Default deck. Please organize them accordingly. 
+3) Either rightclick on a webpage, or use ctrl+shift+y to export to anki. Cards are sent to the Default deck. Please organize them accordingly.
+
+To autocreate cards:
+1) Navigate to a deck and click "review sequentually"
+2) Run the following script: https://greasyfork.org/en/scripts/500780-auto-complete-deck-to-anki
+Important: Please know how to turn it off before trying it (top right click tampermonkey, and turn off the switch besides it)
